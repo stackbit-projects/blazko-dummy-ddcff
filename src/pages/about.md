@@ -6,6 +6,9 @@ sections:
     align: center
   - type: content_section
     content: >-
+      A short description here. 
+
+
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
       sit amet venenatis urna cursus eget nunc. Dui nunc mattis enim ut tellus.
       Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
