@@ -52,12 +52,7 @@ sections:
           - dolor sit amet
         align: left
         image_position: left
-        actions:
-          - label: lorem-ipsum
-            url: lorem-ipsum
-            style: link
-            new_window: false
-            type: action
+        actions: []
         type: feature
   - type: blog_feed_section
     title: What's New
