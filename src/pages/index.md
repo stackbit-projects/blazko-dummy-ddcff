@@ -52,7 +52,7 @@ sections:
         actions:
           - label: lorem-ipsum
             url: lorem-ipsum
-            style: link
+            style: secondary
             new_window: false
             type: action
         type: feature
