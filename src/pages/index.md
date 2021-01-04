@@ -49,7 +49,12 @@ sections:
           - dolor sit amet
         align: left
         image_position: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            new_window: false
+            type: action
         type: feature
         image: images/feature.svg
   - type: blog_feed_section
