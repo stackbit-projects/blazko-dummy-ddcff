@@ -50,7 +50,7 @@ sections:
         align: left
         image_position: left
         actions:
-          - label: lorem-ipsum
+          - label: Read more
             url: lorem-ipsum
             style: secondary
             new_window: false
