@@ -50,7 +50,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        align: right
+        align: left
         image_position: left
         actions: []
         type: feature
